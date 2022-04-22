@@ -1,4 +1,4 @@
-# ensible_introduce
+# ansible_introduce
 
 Ansible is an agentless automation tool that you install on a control node. From the control node, Ansible manages machines and other devices remotely (by default, over the SSH protocol). 
 
